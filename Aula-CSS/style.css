@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    
+    color: aliceblue;
+}
+
+.nada {
+    background-color: blue;
+    width: 50px;
+}
+
+.carro {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    height: 100%;
+}
